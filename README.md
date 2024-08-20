@@ -1,5 +1,6 @@
 ## HelloWorld("print");👋
 
+<p text-align = "center">As a dedicated computer engineer, I am constantly seeking opportunities to learn new technologies and methodologies that will enhance my skill set. My professional journey is driven by a passion to not only improve my own abilities but also to make a meaningful contribution to the projects I am involved in. Iam committed to delivering high-quality work and thrive on challenges that push the boundaries of my expertise. With a proactive approach to personaland professional development, I am always ready to tackle complex problemsand deliver innovative solutions.</p>
 <!--
 **Nielark/Nielark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
