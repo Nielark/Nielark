@@ -1,6 +1,6 @@
 ## HelloWorld("print");👋
 
-<table border="0">
+<table style="border: none;">
   <tr>
     <td>
       <img src="https://github.com/Nielark/Images/blob/master/My%20picture.png" alt="Profile Picture" width="150"/>
