@@ -2,7 +2,6 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00FF00&lines=Welcome+to+my+GitHub+profile!;I+am+a+Computer+Engineer.;I+love+coding.">
-  
   <img src="https://github.com/Nielark/Images/blob/master/My%20picture.png" alt="Profile Picture" width="150"/>
 </p>
 
