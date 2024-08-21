@@ -9,7 +9,6 @@
 </p>As a dedicated computer engineer, I am constantly seeking opportunities to learn new technologies and methodologies that will enhance my skill set. My professional journey is driven by a passion to not only improve my own abilities but also to make a meaningful contribution to the projects I am involved in. Iam committed to delivering high-quality work and thrive on challenges that push the boundaries of my expertise. With a proactive approach to personaland professional development, I am always ready to tackle complex problemsand deliver innovative solutions.</p>
 </div>
 
-
 ## Programming Languages
 
 <p align="center">
@@ -29,5 +28,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="mySQL" style="width: 50px; height: 50px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" style="width: 50px; height: 50px;"/>
 </p>
+
+## Contact Me
+
+<div align="center">
+  <a href="markdanielcmagpantay@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%40your.email@example.com-blue?logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="http://www.linkedin.com/in/mark-daniel-magpantay">
+    <img src="https://img.shields.io/badge/LinkedIn-Your%20Profile-blue?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
 
           
