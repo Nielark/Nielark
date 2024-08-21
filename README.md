@@ -32,11 +32,11 @@
 ## Contact Me
 
 <div align="center">
-  <a href="markdanielcmagpantay@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%40your.email@example.com-blue?logo=gmail&logoColor=white" alt="Email"/>
+   <a href="mailto:your.email@example.com">
+    <img src="https://img.icons8.com/material-outlined/24/000000/mail.png" alt="Email"/>
   </a>
-  <a href="http://www.linkedin.com/in/mark-daniel-magpantay">
-    <img src="https://img.shields.io/badge/LinkedIn-Your%20Profile-blue?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/your-profile">
+    <img src="https://img.icons8.com/material-outlined/24/000000/linkedin.png" alt="LinkedIn"/>
   </a>
 </div>
 
