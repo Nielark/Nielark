@@ -2,7 +2,6 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00FF00&lines=Welcome+to+my+GitHub+profile!;I+am+a+Computer+Engineer.;I+love+coding.">
-  <img src="https://github.com/Nielark/Images/blob/master/My%20picture.png" alt="Profile Picture" width="150"/>
 </p>
 
 <div align="justify">
@@ -31,18 +30,17 @@
 
 ## Contact Me
 
-<div align="center">
-   <a href="mailto:your.email@example.com">
-    <img src="https://img.icons8.com/material-outlined/24/000000/mail.png" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/your-profile">
-    <img src="https://img.icons8.com/material-outlined/24/000000/linkedin.png" alt="LinkedIn"/>
-  </a>
-</div>
-
-## Profile Views
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nielark&style=flat-square&color=blue" alt="Profile Views"/>
+  <a href="mailto:your.email@example.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/your-profile" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/your-profile" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
 </p>
+
+
           
