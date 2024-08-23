@@ -4,6 +4,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00FF00&lines=Welcome+to+my+GitHub+profile!;I+am+a+Computer+Engineer.;I+love+coding.">
 </p>
 
+![Profile Banner](https://github.com/Nielark/Images/blob/master/My%20Profile%20Banner.png)
+
 <p align="center">
   <img src="https://github.com/Nielark/Images/blob/master/My%20Profile%20Banner.png" alt="Banner">
 </p>
