@@ -4,13 +4,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00FF00&lines=Welcome+to+my+GitHub+profile!;I+am+a+Computer+Engineer.;I+love+coding.">
 </p>
 
-![Profile Banner](https://github.com/Nielark/Images/blob/master/My%20Profile%20Banner.png)
+<div align="center">
+  ![Profile Banner](https://github.com/Nielark/Images/blob/master/My%20Profile%20Banner.png)
+</div>
+
 
 <div align="justify">
 </p>As a dedicated computer engineer, I am constantly seeking opportunities to learn new technologies and methodologies that will enhance my skill set. My professional journey is driven by a passion to not only improve my own abilities but also to make a meaningful contribution to the projects I am involved in. Iam committed to delivering high-quality work and thrive on challenges that push the boundaries of my expertise. With a proactive approach to personaland professional development, I am always ready to tackle complex problemsand deliver innovative solutions.</p>
 </div>
 
-## Programming Languages
+## 💻Tech Stack
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" style="width: 50px; height: 50px;"/>
@@ -29,6 +32,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="mySQL" style="width: 50px; height: 50px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" style="width: 50px; height: 50px;"/>
 </p>
+
+##📊 GitHub Stats:
+
+<div align="center">
+  ![](https://github-readme-stats.vercel.app/api?username=Nielark&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true)<br/>
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=Nielark&theme=codeSTACKr&hide_border=true)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nielark&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+</div>
+
+### ✍️ Random Dev Quote
+
+<div align="center">
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+</div>
 
 ## Contact Me
 
