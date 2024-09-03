@@ -40,6 +40,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nielark&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
 </div>
 
+## 🚀 Projects
+
+### [Quizzerium](https://github.com/Nielark/Quizzerium-Quiz-Game)
+<p align="center">
+  <img src="https://github.com/Nielark/Images/blob/master/Quizzerium_image.png" alt="Quizzerium" style="width: 80%; height: auto;"/>
+</p>
+
 ### ✍️ Random Dev Quote
 
 <div align="center">
