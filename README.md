@@ -59,12 +59,12 @@
       <p>A dynamic quiz game application built with C#.NET, featuring a custom UI, sound effects, and dynamic content generation.</p>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/Nielark/Quizzerium-Quiz-Game">
-        <img src="https://github.com/Nielark/Images/blob/master/Quizzerium_image.png" alt="Quizzerium" width="80%"/>
+      <a href="https://nielark.github.io/Web-Password-Generator/">
+        <img src="https://github.com/Nielark/Images/blob/master/Password_Generator_Image.png" alt="Quizzerium" width="80%"/>
         <br/>
-        <strong>Quizzerium</strong>
+        <strong>Password Generator</strong>
       </a>
-      <p>A dynamic quiz game application built with C#.NET, featuring a custom UI, sound effects, and dynamic content generation.</p>
+      <p>A password generator that can customize the password combination such as special characters, numbers, lower and uppercase letters, and password length.</p>
     </td>
   </tr>
 </table>
