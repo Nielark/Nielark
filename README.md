@@ -1,15 +1,23 @@
+<div align="center">
+  <img src="https://github.com/Nielark/Images/blob/master/My%20Profile%20Banner.png" alt="Profile Banner"/>
+</div>
+
 ## HelloWorld("print");👋
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00FF00&lines=Welcome+to+my+GitHub+profile!;I+am+a+Computer+Engineer.;I+love+coding.">
 </p>
 
-<div align="center">
-  <img src="https://github.com/Nielark/Images/blob/master/My%20Profile%20Banner.png" alt="Profile Banner"/>
-</div>
-
 <div align="justify">
   <p>As a dedicated computer engineer, I am constantly seeking opportunities to learn new technologies and methodologies that will enhance my skill set. My professional journey is driven by a passion to not only improve my own abilities but also to make a meaningful contribution to the projects I am involved in. I am committed to delivering high-quality work and thrive on challenges that push the boundaries of my expertise. With a proactive approach to personal and professional development, I am always ready to tackle complex problems and deliver innovative solutions.</p>
+</div>
+
+## 📊 GitHub Stats:
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nielark&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true"/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nielark&theme=codeSTACKr&hide_border=true"/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nielark&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
 </div>
 
 ## 💻 Tech Stack
@@ -32,25 +40,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" style="width: 50px; height: 50px;"/>
 </p>
 
-## 📊 GitHub Stats:
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nielark&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true"/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nielark&theme=codeSTACKr&hide_border=true"/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nielark&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
-</div>
-
 ## 🚀 Projects
+
 ### [Quizzerium](https://github.com/Nielark/Quizzerium-Quiz-Game)
 <div align="center">
-  
-  <figure>
-    <img src="https://github.com/Nielark/Images/blob/master/Quizzerium_image.png" alt="Quizzerium" style="width: 50%; height: auto; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"/>
-    <figcaption>A dynamic quiz game application built with C#.NET, featuring a custom UI, sound effects, and dynamic content generation.</figcaption>
-  </figure>
+    <img src="https://github.com/Nielark/Images/blob/master/Quizzerium_image.png" alt="Quizzerium"/>  
 </div>
-
-
+<p>A dynamic quiz game application built with C#.NET, featuring a custom UI, sound effects, and dynamic content generation.</p>
 
 ### ✍️ Random Dev Quote
 
