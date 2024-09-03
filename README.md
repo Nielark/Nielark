@@ -58,6 +58,14 @@
       </a>
       <p>A dynamic quiz game application built with C#.NET, featuring a custom UI, sound effects, and dynamic content generation.</p>
     </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/Nielark/Quizzerium-Quiz-Game">
+        <img src="https://github.com/Nielark/Images/blob/master/Quizzerium_image.png" alt="Quizzerium" width="80%"/>
+        <br/>
+        <strong>Quizzerium</strong>
+      </a>
+      <p>A dynamic quiz game application built with C#.NET, featuring a custom UI, sound effects, and dynamic content generation.</p>
+    </td>
   </tr>
 </table>
 
