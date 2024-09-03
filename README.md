@@ -42,12 +42,6 @@
 
 ## 🚀 Projects
 
-### [Quizzerium](https://github.com/Nielark/Quizzerium-Quiz-Game)
-<div align="center">
-    <img src="https://github.com/Nielark/Images/blob/master/Quizzerium_image.png" alt="Quizzerium"/>  
-</div>
-<p>A dynamic quiz game application built with C#.NET, featuring a custom UI, sound effects, and dynamic content generation.</p>
-
 <table align="center">
   <tr>
     <td align="center" width="50%">
