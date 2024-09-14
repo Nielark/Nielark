@@ -9,7 +9,9 @@
 </p>
 
 <div align="justify">
-  <p>As a dedicated computer engineer, I am constantly seeking opportunities to learn new technologies and methodologies that will enhance my skill set. My professional journey is driven by a passion to not only improve my own abilities but also to make a meaningful contribution to the projects I am involved in. I am committed to delivering high-quality work and thrive on challenges that push the boundaries of my expertise. With a proactive approach to personal and professional development, I am always ready to tackle complex problems and deliver innovative solutions.</p>
+  <p>Hello World! I am a Computer Engineering fresh graduate with a solid foundation in programming fundamentals and software development. My passion lies in backend development, where I enjoy leveraging my problem-solving skills and logical thinking to build efficient system functions.
+
+I have experience with C++, Java, and Python, having developed several console and desktop software projects. In addition, I have worked on web-based systems that utilize SQL and databases. My hands-on experience includes Java Swing, MariaDB, relational database design, and version control. I also possess basic experience in other programming languages, which I am continuously improving.</p>
 </div>
 
 ## 📊 GitHub Stats:
