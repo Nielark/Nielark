@@ -1,7 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Nielark/Images/master/My%20Profile%20Banner.png" alt="Profile Banner"/>
-
-<!--   <img src="https://github.com/Nielark/Images/blob/master/My%20Profile%20Banner.png?raw=true" alt="Profile Banner"/> -->
+  <img src="https://github.com/Nielark/Images/blob/master/My%20Profile%20Banner.png?raw=true" alt="Profile Banner"/>
 </div>
 
 ## HelloWorld("print");👋
