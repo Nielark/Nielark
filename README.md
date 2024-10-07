@@ -63,6 +63,16 @@ I have experience with C++, Java, and Python, having developed several console a
       <p>A password generator that can customize the password combination such as special characters, numbers, lower and uppercase letters, and password length.</p>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/Nielark/Password-Generator-GUI">
+        <img src="https://github.com/Nielark/Images/blob/master/Password_Generator_Image_Java.png?raw=true" alt="Password Generator Java" width="80%"/>
+        <br/>
+        <strong>Password Generator (Java)</strong>
+      </a>
+      <p>A password generator using WinForm that can customize the password combination such as special characters, numbers, lower and uppercase letters, and password length.</p>
+    </td>
+  </tr>
 </table>
 
 ### ✍️ Random Dev Quote
