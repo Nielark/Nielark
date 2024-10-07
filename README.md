@@ -48,7 +48,7 @@ I have experience with C++, Java, and Python, having developed several console a
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/Nielark/Quizzerium-Quiz-Game">
-        <img src="https://github.com/Nielark/Images/blob/master/Quizzerium_image.png" alt="Quizzerium" width="80%"/>
+        <img src="https://raw.githubusercontent.com/Nielark/Images/refs/heads/master/Quizzerium_image.png?token=GHSAT0AAAAAACYSALC6IPDTTZSK6ZDLVSX6ZYDVVZA" alt="Quizzerium" width="80%"/>
         <br/>
         <strong>Quizzerium</strong>
       </a>
@@ -56,7 +56,7 @@ I have experience with C++, Java, and Python, having developed several console a
     </td>
     <td align="center" width="50%">
       <a href="https://nielark.github.io/Web-Password-Generator/">
-        <img src="https://github.com/Nielark/Images/blob/master/Password_Generator_Image.png" alt="Quizzerium" width="80%"/>
+        <img src="https://raw.githubusercontent.com/Nielark/Images/refs/heads/master/Password_Generator_Image.png?token=GHSAT0AAAAAACYSALC773YJJ2HVRWN5YYD6ZYDVVEQ" alt="Quizzerium" width="80%"/>
         <br/>
         <strong>Password Generator</strong>
       </a>
