@@ -72,6 +72,14 @@ I have experience with C++, Java, and Python, having developed several console a
       </a>
       <p>A password generator using WinForm that can customize the password combination such as special characters, numbers, lower and uppercase letters, and password length.</p>
     </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/Nielark/Music-Player/tree/Features">
+        <img src="https://github.com/Nielark/Images/blob/master/Music%20Player%20Image.png" alt="Password Generator Java" width="80%"/>
+        <br/>
+        <strong>Music Player</strong>
+      </a>
+      <p>A user-friendly music player that allows user to easily browse and play mp3 stored on desktop or laptop. Features include dynamic song display, intuitive playback controls, and responsive design.</p>
+    </td>
   </tr>
 </table>
 
@@ -81,7 +89,7 @@ I have experience with C++, Java, and Python, having developed several console a
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"/>
 </div>
 
-## Contact Me
+## 📞 Contact Me
 
 <p align="center">
   <a href="mailto:markdanielcmagpantay@gmail.com" style="text-decoration: none;">
